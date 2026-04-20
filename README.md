@@ -22,3 +22,6 @@ A cyber-themed, modern, and futuristic personal portfolio website for Jhon Paul 
 
 ## License
 This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License. See the [LICENSE](LICENSE) file for more information.
+
+## Open the live website directly in the browser.
+You can click the link here: [Live Website](https://jpb17387.github.io/My-Website-Portfolio/html/home.html)
