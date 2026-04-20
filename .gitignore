@@ -1,1 +1,4 @@
 SPECS_AND_REQUIREMENTS/
+node_modules/
+package-lock.json
+package.json
