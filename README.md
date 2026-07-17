@@ -47,4 +47,3 @@ Donate some money to support my work.  <br>Thank you! :)
 <p align="center" >
   <img src="./public/buy-me-a-coffe-qr-code.png" alt="Centered Logo" width="400" height="400">
 </p>
-
