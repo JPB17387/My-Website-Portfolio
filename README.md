@@ -1,6 +1,8 @@
-# Jhon Paul Baonil's Personal Portfolio
+<h1 align="center">Jhon Paul Baonil's Personal Portfolio</h1>
 
-A cyber-themed, modern, and futuristic personal portfolio website for Jhon Paul Baonil.
+<h3 align="center">A cyber-themed, modern, and futuristic personal portfolio website for Jhon Paul Baonil.</h3>
+
+---
 
 ## Features
 - **Cyber / Professional Theme**: Dark UI with neon cyan and purple accents.
@@ -25,3 +27,24 @@ This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 I
 
 ## Open the live website directly in the browser.
 You can click the link here: [Live Website](https://jpb17387.github.io/My-Website-Portfolio/html/home.html)
+
+## Buy me a coffee
+Donate some money to support my work.  <br>Thank you! :)
+<br>
+<br>
+
+>Click the button below to donate:
+
+<a href="https://buymeacoffee.com/paulb_codebreaker" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+<br>
+<br>
+<br>
+
+>Or scan this QR Code to donate:
+
+<p align="center" >
+  <img src="./public/buy-me-a-coffe-qr-code.png" alt="Centered Logo" width="400" height="400">
+</p>
+
